@@ -1,6 +1,6 @@
 <script>
 
-import Api from '../Api.ts';
+import Api from '../Api';
 import TodoNew from './TodoNew.vue'
 export default {
     name: "TodoShow`",

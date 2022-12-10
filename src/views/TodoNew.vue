@@ -28,7 +28,7 @@
 
 <script>
 import swal from 'sweetalert';
-import Api from '../Api.ts';
+import Api from '../Api';
 import Trash from '../components/icons/trash.vue'
 export default {
     data() {
